@@ -1,12 +1,8 @@
 #!python3
 
 def sum(a,b):
-    #inputs
-    # a : float 
-    # b : float
-    # return value: returns the sum of the 2 numbers
-    return
-
+    answer = a+b 
+    return answer 
 
 
 if __name__ == "__main__":
